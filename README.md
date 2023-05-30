@@ -1,9 +1,5 @@
 <h1 align="center">\\ Hello, welcome to my profile 😎 //</h1>
 
-<div align="center">
-<img src="https://media.giphy.com/media/Qd1Q7GufzYeE84FQGI/giphy.gif">
-</div>
-
 <br>
 <pre>
 
