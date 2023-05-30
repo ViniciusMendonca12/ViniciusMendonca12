@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">\\ Hello, welcome to my profile 😎 //</h1>
 
-<!--
-**ViniciusMendonca12/ViniciusMendonca12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://media.giphy.com/media/Qd1Q7GufzYeE84FQGI/giphy.gif">
+</div>
 
-Here are some ideas to get you started:
+<br>
+<pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+                            ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
+                            ▣ My name is Vinícius Mendonça
+                            ▣ I'm 19 years old
+                            ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
+                            ▣ My current focus is on software development 
+                            ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
+
+</div>
+
+</pre>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusMendonca12&show_icons=true&theme=radical&count_private=true" alt="Matheus Morandi Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusMendonca12&layout=compact&theme=radical"/>
+</div>
+
+<br>
+<pre>
+▰▰▰─────────┤ Tecnologies ├─────────▰▰▰
+
+▰▰▰──────────────────────────────▰▰▰
+
+</pre>
