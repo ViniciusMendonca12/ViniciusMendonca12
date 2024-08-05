@@ -6,9 +6,9 @@
 <div>
                             ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
                             ▣ My name is Vinícius Mendonça
-                            ▣ I'm 19 years old
+                            ▣ I'm 20 years old
                             ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
-                            ▣ My current focus is on software development 
+                            ▣ My current focus is on full stack software development 
                             ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
 
 </div>
