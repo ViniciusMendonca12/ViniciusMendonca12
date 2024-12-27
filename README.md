@@ -1,13 +1,12 @@
-<h1 align="center">\\ Hello, welcome to my profile 😎 //</h1>
 
-<br>
 <pre>
 
 <div>
                             ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
                             ▣ My name is Vinícius Mendonça
                             ▣ I'm 20 years old
-                            ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
+                            ▣ Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
+                            ▣ Systems Development Technician
                             ▣ My current focus is on full stack software development 
                             ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
 
@@ -16,8 +15,8 @@
 </pre>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusMendonca12&show_icons=true&theme=radical&count_private=true" alt="Matheus Morandi Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusMendonca12&layout=compact&theme=radical"/>
+  
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusMendonca12&layout=compact&theme=radical"/>
 </div>
 
 <br>
