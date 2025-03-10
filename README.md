@@ -5,7 +5,7 @@
                             ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
   
                             ▣ My name is Vinícius Mendonça
-                            ▣ 20 years old
+                            ▣ 21 years old
                             ▣ Pursuing a postgraduate degree in Full Stack Development at Unimar in Marília-SP
                             ▣ Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-SP
                             ▣ Systems Development Technician at ETEC Prof. Massuyuki Kawano in Tupã-SP
